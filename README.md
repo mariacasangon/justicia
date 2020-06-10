@@ -19,7 +19,7 @@ Por otro lado, se encuentran los cuadernos de Cine Colombiano realizados por la 
 
 En la Biblioteca del Archivo General de la Nación se encuentra un catálogo en línea con la opción de búsqueda simple y búsqueda avanzada. En ambas se indicaron las palabras *Palacio de Justicia* y *toma Palacio de Justicia* obteniendo un sólo resultado denominado [El Holocausto del Palacio de Justicia](https://biblioteca.archivogeneral.gov.co/pmb/opac_css/index.php?lvl=notice_display&id=6702) de Alfonso Plazas vega.  Este texto no pudo ser consultado virtualmente porque es de tipo impreso, dificultando el estudio sobre la presentación discursiva de este acontecimiento histórico.
 
-![Imagen 2] ()
+![Imagen 2] (https://github.com/mariacasangon/justicia/blob/master/Pic2.jpg)
 
 Otros hallazgos fueron en la Revista credencial número 117 del Banco de la República, en la que se describe la orientación a medidas violentas por parte del gobierno del momento, y la injusticia que surgió al dejar absueltos a militares investigados por excesos de fuerza durante la toma. El [artículo](https://www.banrepcultural.org/biblioteca-virtual/credencial-historia/numero-117/toma-del-palacio-de-justicia-noviembre-6-de-1985) , escrito por Ramón Jimeno, invita a la reflexión sobre la posibilidad que hubo de dar participación a los líderes de éstos grupos por vías diferentes a la violencia, por ejemplo, desde su reincorporación a la vida civil como actores políticos legales, cuestionando el papel mediador y conciliador del Estado. 
 
